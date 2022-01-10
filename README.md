@@ -12,11 +12,11 @@ Widget(위젯)
 
 ### Flutter 상에서의 위젯이란?
  - UI를 만들고 구성하는 모든 기본 단위 요소
-<img src="C:\Users\USER\Desktop\이미지\148803486-7029328b-c029-4802-bce0-75651f7afa5d.png" width="30%" height="40%" title="px(픽셀) 크기 설정"></img>
+ ![image](https://user-images.githubusercontent.com/87854296/148805153-affb6afb-7b89-4cbb-a67f-880cd2655090.png)
  - 그림에서 보듯이 test, icon, image, Text field, button과 같은 앱 화면을 구성하고있는 모든 요소들을 플로터에서는 위젯이라고 말한다.
-
-- 플로터에서는 눈에보이는 요소들 뿐만 아니라 눈에 보이지 않는 요소들까지 위젯이라고한다.
  
+- 플로터에서는 눈에보이는 요소들 뿐만 아니라 눈에 보이지 않는 요소들까지 위젯이라고한다.
+ ![image](https://user-images.githubusercontent.com/87854296/148805172-1139141c-8e17-4bc8-ae55-835dba4d8e46.png)
 center, column, padding과 같이 눈에 보이지 않는 레이아웃을 정의하는 모든 요소들까지 위젯이라고 한다.
 
 - 플로터에서는 모든것이 위젯이라 할 수 있다. 위젯들을 모아 만들어진 앱 또한 위젯이라고 할 수 있다.
