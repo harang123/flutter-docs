@@ -100,7 +100,8 @@ flutter-docs
 
 
 아래로는 위의 위젯을 만들며 공부한 위젯들과 설명을 작성하였다.
-'''
+<pre>
+<code>
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -269,17 +270,5 @@ class Grade extends StatelessWidget {
     );
   }
 }
-'''
-
-
-
-
-
-
-
-
-
-
-
-
-
+</code>
+</pre>
